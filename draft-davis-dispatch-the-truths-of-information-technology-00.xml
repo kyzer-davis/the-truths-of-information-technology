@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<?xml-stylesheet type="text/xsl" href="rfc2629.xslt" ?> <!-- used by XSLT processors -->
+<!-- OPTIONS, known as processing instructions (PIs) go here. -->
+<!-- For a complete list and description of PIs,
+please see http://xml.resource.org/authoring/README.html. -->
+<!-- Below are generally applicable PIs that most I-Ds might want to use. -->
+<?rfc strict="yes" ?> <!-- give errors regarding ID-nits and DTD validation -->
+<!-- control the table of contents (ToC): -->
+<?rfc toc="yes"?> <!-- generate a ToC -->
+<?rfc tocdepth="3"?> <!-- the number of levels of subsections in ToC. default: 3 -->
+<!-- control references: -->
+<?rfc symrefs="yes"?> <!-- use symbolic references tags, i.e, [RFC2119] instead of [1] -->
+<?rfc sortrefs="yes" ?> <!-- sort the reference entries alphabetically -->
+<!-- control vertical white space: 
+(using these PIs as follows is recommended by the RFC Editor) -->
+<!-- end of popular PIs -->
+<rfc version="3" category="info" updates="1925" submissionType="IETF" consensus="true" ipr="trust200902" docName="draft-davis-dispatch-the-truths-of-information-technology-00">
+	<front>
+		<title abbrev="new-it-truths">The Truths of Information Technology</title>
+		<seriesInfo name="Internet-Draft" value="draft-davis-dispatch-the-truths-of-information-technology-00" stream="IETF"/>
+		<author fullname="Kyzer R. Davis" initials="K" surname="Davis">
+			<address>
+				<email>kydavis@cisco.com</email>
+			</address>
+		</author>
+		<date year="2022" />
+		<area>ART</area>
+		<workgroup>dispatch</workgroup>
+		<keyword>it</keyword>
+		<abstract>
+			<t>
+				The internet and information technology landscape has changed in many ways since The Twelve Networking Truths was original published via <xref target="RFC1925"/> over twenty six years ago.
+				As a result this document attempts to extend the truths of information technology into the twenty-first century.
+				This memo does not specify a standard, except in the sense that all standards MUST implicitly follow the fundamental truths.
+			</t>
+		</abstract>
+	</front>
+	<middle>
+		<section anchor="Background" title="Introduction">
+			<t>
+				This Request for Comments (RFC) provides information about the fundamental truths underlying all information technology sectors. 
+				These truths apply to all information technology sectors in general, and are not limited to networking, TCP/IP, the Internet, or any other subset of the networking community.
+			</t>
+		</section>
+		<section title="Terminology">
+			<section anchor="requirements_language" title="Requirements Language">
+				<t>
+					The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in BCP 14 <xref target="RFC2119"/> <xref target="RFC8174"/> when, and only when, they appear in all capitals, as shown here.
+				</t>
+			</section>
+		</section>		
+		<section anchor="fundamental_truths" title="The Fundamental Truths">
+			<dl newline="true">
+				<dt>0.</dt>
+					<dd>
+						With networking, much like programming, numbering SHOULD always start with zero.
+					</dd>
+				<dt>1.</dt>
+					<dd>
+						It Has To Work.
+					</dd>
+				<dt>2.</dt>
+					<dd>
+						No matter how hard you push and no matter what the priority,you can't increase the speed of light.
+						You can, however, slow it down.
+					</dd>
+				<dt>2a.</dt>
+					<dd>
+						No matter how hard you try, you can't make a baby in much less than 9 months. Trying to speed this up *might* make it slower, but it won't make it happen any quicker.
+					</dd>
+				<dt>3.</dt>
+					<dd>
+						With sufficient thrust, pigs fly just fine. However, this is not necessarily a good idea. 
+						It is hard to be sure where they are going to land, and it could be dangerous sitting under them as they fly overhead.
+					</dd>
+				<dt>4.</dt>
+					<dd>
+						Some things in life can never be fully appreciated nor understood unless experienced firsthand. 
+						Just as some things in networking can never be fully understood by someone who neither builds commercial networking equipment nor runs an operational network.
+					</dd>
+				<dt>5.</dt>
+					<dd>
+						It is always possible to agglutinate multiple separate problems into a single complex interdependent solution. 
+						In most cases this is a bad idea.
+					</dd>
+				<dt>6.</dt>
+					<dd>
+						It is easier to move a problem around (for example, by moving the problem to a different part of the overall network architecture) than it is to solve it.
+					</dd>
+				<dt>6a.</dt>
+					<dd>
+						It is always possible to add another level of indirection.
+					</dd>
+				<dt>7.</dt>
+					<dd>
+						It is always something.
+					</dd>
+				<dt>7a.</dt>
+					<dd>
+						Good, Fast, Cheap: Pick any two (you can't have all three).
+					</dd>
+				<dt>8.</dt>
+					<dd>
+						It is more complicated than you think.
+					</dd>
+				<dt>9.</dt>
+					<dd>
+						For all resources, whatever it is, you need more.
+					</dd>
+				<dt>9a.</dt>
+					<dd>
+						Every information technology problem always takes longer to solve than it seems like it should.
+					</dd>
+				<dt>10.</dt>
+					<dd>
+						One size never fits all.
+					</dd>
+				<dt>11.</dt>
+					<dd>
+						Every old idea will be proposed again with a different name and a different presentation, regardless of whether it works. 
+						See rule 6a.
+					</dd>
+				<dt>12.</dt>
+					<dd>
+						In protocol design, perfection has been reached not when there is nothing left to add, but when there is nothing left to take away.
+					</dd>
+				<dt>13.</dt>
+					<dd>
+						The network is at fault until proven innocent. (Helpdesk, end users, customers, developers perspective)
+					</dd>
+				<dt>14.</dt>
+					<dd>
+						The Firewall is at fault until proven innocent. (Network Engineers perspective)
+					</dd>
+				<dt>15.</dt>
+					<dd>
+						Bourbon or Scotch are the drinks of choice amongst IT professionals. 
+					</dd>
+				<dt>16.</dt>
+					<dd>
+						Automation is encouraged and oftentimes recommeneded. (even at times when it shouldn't be.)
+					</dd>
+				<dt>17.</dt>
+					<dd>
+						Never make a change unless you know the impact or ramifications of said change.
+					</dd>
+				<dt>18.</dt>
+					<dd>
+						Never test in production.
+					</dd>
+				<dt>19.</dt>
+					<dd>
+						Layer 8 of the OSI model is People. (End Users, customers, developers and network engineers)
+					</dd>
+				<dt>20.</dt>
+					<dd>
+						Layer 9 of the OSI model is company/external regulations, rules, and restrictions
+					</dd>
+				<dt>21.</dt>
+					<dd>
+						Layer 10 of the OSI model is money, budget, and funds
+					</dd>
+				<dt>22.</dt>
+					<dd>
+						Reserved for Catch-22s.
+					</dd>
+				<dt>23.</dt>
+					<dd>
+						If it can break, it will break, unexpectedly, on a weekend/holiday.
+					</dd>
+				<dt>24.</dt>
+					<dd>
+						Fail-over and high availability are not suggestions. Remember to test regularly!
+					</dd>
+				<dt>25.</dt>
+					<dd>
+						Change or version control are not a suggestion.
+					</dd>
+				<dt>26.</dt>
+					<dd>
+						You will get no praise when everything is working. Expect to only be needed when things break
+					</dd>
+				<dt>27.</dt>
+					<dd>
+						Cloud simply means somebody elses data center/network.
+					</dd>
+				<dt>28.</dt>
+					<dd>
+						When things don't work, escalate harder.
+					</dd>
+				<dt>29.</dt>
+					<dd>
+						Never assume any software is free of bugs/defects.
+					</dd>
+				<dt>30.</dt>
+					<dd>
+						IPv6 should replace IPv4 any day now.
+					</dd>
+				<dt>31.</dt>
+					<dd>
+						Friday after 5pm local time until Sunday midnight local time are perfect change window times.
+					</dd>
+				<dt>32.</dt>
+					<dd>
+						There can always be more people on the conference call.
+					</dd>
+				<dt>33.</dt>
+					<dd>
+						TIAAA (There Is Always Another Acronym)
+					</dd>
+				<dt>34.</dt>
+					<dd>
+						There is no such thing as a random issue. There MAY be variables that make an issue intermittent but it is never truly random.
+					</dd>
+				<dt>35.</dt>
+					<dd>
+						Trust not the actions or analysis of anybody. "Trust but verify" should be the approach to any situation.
+					</dd>
+				<dt>36.</dt>
+					<dd>
+						The packets don't lie.
+					</dd>
+				<dt>37.</dt>
+					<dd>
+						Wireless might as well be magic.
+					</dd>
+				<dt>38.</dt>
+					<dd>
+						Nothing is every truly 100% secure.
+					</dd>
+				<dt>39.</dt>
+					<dd>
+						Everybody's title is made up.
+					</dd>
+				<dt>40.</dt>
+					<dd>
+						One of the hardest parts of a network engineers day is the process of copying a file from a client to a server.
+						See rule 14.
+					</dd>
+				<dt>41.</dt>
+					<dd>
+						Documentation, while REQUIRED, is never complete or up-to-date.
+					</dd>
+				<dt>42.</dt>
+					<dd>
+						A minimum of two datapoints should be collected in order to properly point the finger.
+					</dd>
+				<dt>43.</dt>
+					<dd>
+						It is very likely somebody has always thought of it before you.
+					</dd>
+				<dt>44.</dt>
+					<dd>
+						Fear of the unknown oftentimes superseeds common sense.
+					</dd>
+				<dt>45.</dt>
+					<dd>Unassigned</dd>
+				<dt>46.</dt>
+					<dd>Unassigned</dd>
+				<dt>47.</dt>
+					<dd>Unassigned</dd>
+				<dt>48.</dt>
+					<dd>Unassigned</dd>
+				<dt>49.</dt>
+					<dd>Unassigned</dd>
+				<dt>50.</dt>
+					<dd>Reserved for Future Use (but will likely never be used.)</dd>
+			</dl>
+		</section>
+				
+		<section anchor="IANA" title="IANA Considerations">
+			<t>
+				IANA SHOULD consider these truths valid.
+			</t>
+		</section>
+
+		<section anchor="Security" title="Security Considerations">
+			<t>
+				This RFC raises no security issues. However, security protocols are subject to the fundamental networking truths.
+			</t>
+			<t>
+				The informative references have been deleted in order to protect the guilty and avoid enriching the lawyers.
+			</t>
+			<t>
+				The authors of this document are <xref target="RFC2323"/> compliant.
+			</t>
+		</section>
+		
+		<section anchor="acknowledgements" title="Acknowledgements">
+			<t>
+				The truths described in this memo result from extensive study over an extended period of time by many people, some of whom did not intend to contribute to this work. 
+				The editor merely has collected these truths, and would like to thank the informatoin technology community for originally illuminating these truths.
+			</t>
+		</section>
+
+	</middle>
+
+	<back>
+		<references title="Normative References">
+			<reference anchor="RFC2119" target="https://www.rfc-editor.org/info/rfc2119" quoteTitle="true" derivedAnchor="RFC2119">
+				<front>
+					<title>Key words for use in RFCs to Indicate Requirement Levels</title>
+					<author initials="S." surname="Bradner" fullname="S. Bradner">
+						<organization showOnFrontPage="true"/>
+					</author>
+					<date year="1997" month="March"/>
+					<abstract>
+						<t indent="0">In many standards track documents several words are used to signify the requirements in the specification.  These words are often capitalized. This document defines these words as they should be interpreted in IETF documents.  This document specifies an Internet Best Current Practices for the Internet Community, and requests discussion and suggestions for improvements.</t>
+					</abstract>
+				</front>
+				<seriesInfo name="BCP" value="14"/>
+				<seriesInfo name="RFC" value="2119"/>
+				<seriesInfo name="DOI" value="10.17487/RFC2119"/>
+			</reference>
+			<reference anchor="RFC8174" target="https://www.rfc-editor.org/info/rfc8174" quoteTitle="true" derivedAnchor="RFC8174">
+			  <front>
+				<title>Ambiguity of Uppercase vs Lowercase in RFC 2119 Key Words</title>
+				<author initials="B." surname="Leiba" fullname="B. Leiba">
+				  <organization showOnFrontPage="true"/>
+				</author>
+				<date year="2017" month="May"/>
+				<abstract>
+				  <t indent="0">RFC 2119 specifies common key words that may be used in protocol  specifications.  This document aims to reduce the ambiguity by clarifying that only UPPERCASE usage of the key words have the  defined special meanings.</t>
+				</abstract>
+			  </front>
+			  <seriesInfo name="BCP" value="14"/>
+			  <seriesInfo name="RFC" value="8174"/>
+			  <seriesInfo name="DOI" value="10.17487/RFC8174"/>
+			</reference>
+			<reference anchor="RFC1925" target="https://www.rfc-editor.org/info/rfc1925" quoteTitle="true" derivedAnchor="RFC1925">
+			  <front>
+				<title>The Twelve Networking Truths</title>
+				<author initials="R." surname="Callon" fullname="R. Callon">
+				  <organization showOnFrontPage="true"/>
+				</author>
+				<date year="1996" month="May"/>
+				<abstract>
+				  <t indent="0">This memo documents the fundamental truths of networking for the Internet community. This memo does not specify a standard, except in the sense that all standards must implicitly follow the fundamental truths. This memo provides information for the Internet community. This memo does not specify an Internet standard of any kind.</t>
+				</abstract>
+			  </front>
+			  <seriesInfo name="RFC" value="1925"/>
+			  <seriesInfo name="DOI" value="110.17487/RFC1925"/>
+			</reference>
+			<reference anchor="RFC2323" target="https://www.rfc-editor.org/info/rfc2323" quoteTitle="true" derivedAnchor="RFC2323">
+			  <front>
+				<title>IETF Identification and Security Guidelines</title>
+				<author initials="B." surname="Leiba" fullname="B. Leiba">
+				  <organization showOnFrontPage="true"/>
+				</author>
+				<date year="2017" month="May"/>
+				<abstract>
+				  <t indent="0">This RFC is meant to represent a guideline by which the IETF conferences may run more effeciently with regards to identification and security protocols, with specific attention paid to a particular sub-group within the IETF: "facial hairius extremis". This memo provides information for the Internet community. It does not specify an Internet standard of any kind.</t>
+				</abstract>
+			  </front>
+			  <seriesInfo name="RFC" value="2323"/>
+			  <seriesInfo name="DOI" value="10.17487/RFC2323"/>
+			</reference>
+		</references>
+	</back>
+</rfc>
