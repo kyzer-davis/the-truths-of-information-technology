@@ -3,10 +3,10 @@
 
 
 dispatch                                                        K. Davis
-Internet-Draft                                             22 March 2022
+Internet-Draft                                             23 March 2022
 Updates: 1925 (if approved)                                             
 Intended status: Informational                                          
-Expires: 23 September 2022
+Expires: 24 September 2022
 
 
                   The Truths of Information Technology
@@ -37,7 +37,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 23 September 2022.
+   This Internet-Draft will expire on 24 September 2022.
 
 Copyright Notice
 
@@ -53,7 +53,7 @@ Copyright Notice
 
 
 
-Davis                   Expires 23 September 2022               [Page 1]
+Davis                   Expires 24 September 2022               [Page 1]
 
 Internet-Draft                new-it-truths                   March 2022
 
@@ -109,7 +109,7 @@ Table of Contents
 
 
 
-Davis                   Expires 23 September 2022               [Page 2]
+Davis                   Expires 24 September 2022               [Page 2]
 
 Internet-Draft                new-it-truths                   March 2022
 
@@ -165,7 +165,7 @@ Internet-Draft                new-it-truths                   March 2022
 
 
 
-Davis                   Expires 23 September 2022               [Page 3]
+Davis                   Expires 24 September 2022               [Page 3]
 
 Internet-Draft                new-it-truths                   March 2022
 
@@ -179,8 +179,7 @@ Internet-Draft                new-it-truths                   March 2022
 
    11.
       Every old idea will be proposed again with a different name and a
-      different presentation, regardless of whether it works.  See rule
-      6a.
+      different presentation, regardless of whether it works.  See 6a.
 
    12.
       In protocol design, perfection has been reached not when there is
@@ -195,11 +194,11 @@ Internet-Draft                new-it-truths                   March 2022
       Engineers perspective)
 
    15.
-      Bourbon or Scotch are the drinks of choice amongst IT
-      professionals.
+      Bourbon or Scotch are the drinks of choice among IT professionals.
+      Others SHALL be allowed.
 
    16.
-      Automation is encouraged and oftentimes recommeneded. (even at
+      Automation is encouraged and oftentimes recommended. (even at
       times when it shouldn't be.)
 
    17.
@@ -217,17 +216,15 @@ Internet-Draft                new-it-truths                   March 2022
       Layer 9 of the OSI model is company/external regulations, rules,
       and restrictions
 
+   21.
+      Layer 10 of the OSI model is money, budget, and funds
 
 
 
-
-Davis                   Expires 23 September 2022               [Page 4]
+Davis                   Expires 24 September 2022               [Page 4]
 
 Internet-Draft                new-it-truths                   March 2022
 
-
-   21.
-      Layer 10 of the OSI model is money, budget, and funds
 
    22.
       Reserved for Catch-22s.
@@ -248,7 +245,7 @@ Internet-Draft                new-it-truths                   March 2022
       be needed when things break
 
    27.
-      Cloud simply means somebody elses data center/network.
+      Cloud simply means somebody else's data center/network.
 
    28.
       When things don't work, escalate harder.
@@ -273,18 +270,17 @@ Internet-Draft                new-it-truths                   March 2022
       There is no such thing as a random issue.  There MAY be variables
       that make an issue intermittent but it is never truly random.
 
-
-
-
-
-Davis                   Expires 23 September 2022               [Page 5]
-
-Internet-Draft                new-it-truths                   March 2022
-
-
    35.
       Trust not the actions or analysis of anybody.  "Trust but verify"
       should be the approach to any situation.
+
+
+
+
+Davis                   Expires 24 September 2022               [Page 5]
+
+Internet-Draft                new-it-truths                   March 2022
+
 
    36.
       The packets don't lie.
@@ -300,26 +296,29 @@ Internet-Draft                new-it-truths                   March 2022
 
    40.
       One of the hardest parts of a network engineers day is the process
-      of copying a file from a client to a server.  See rule 14.
+      of copying a file from a client to a server.  See 14.
 
    41.
       Documentation, while REQUIRED, is never complete or up-to-date.
 
    42.
-      A minimum of two datapoints should be collected in order to
+      A minimum of two data points should be collected in order to
       properly point the finger.
 
    43.
       It is very likely somebody has always thought of it before you.
 
    44.
-      Fear of the unknown oftentimes superseeds common sense.
+      Fear of the unknown oftentimes supersedes common sense.
 
    45.
-      Unassigned
+      Your microphone behaves much like Schrodinger's cat.  That is, it
+      is always in a state of being muted or unmuted until observed; at
+      which point it is usually in the wrong state.
 
    46.
-      Unassigned
+      Sometimes a device needs a reload and there is no further
+      justification beyond that fact required.
 
    47.
       Unassigned
@@ -328,12 +327,13 @@ Internet-Draft                new-it-truths                   March 2022
       Unassigned
 
    49.
-      Unassigned
+      Experimental
 
 
 
 
-Davis                   Expires 23 September 2022               [Page 6]
+
+Davis                   Expires 24 September 2022               [Page 6]
 
 Internet-Draft                new-it-truths                   March 2022
 
@@ -360,7 +360,7 @@ Internet-Draft                new-it-truths                   March 2022
    The truths described in this memo result from extensive study over an
    extended period of time by many people, some of whom did not intend
    to contribute to this work.  The editor merely has collected these
-   truths, and would like to thank the informatoin technology community
+   truths, and would like to thank the information technology community
    for originally illuminating these truths.
 
 7.  Normative References
@@ -389,4 +389,4 @@ Author's Address
 
 
 
-Davis                   Expires 23 September 2022               [Page 7]
+Davis                   Expires 24 September 2022               [Page 7]
