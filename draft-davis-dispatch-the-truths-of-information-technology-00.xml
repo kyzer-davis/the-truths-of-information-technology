@@ -134,7 +134,7 @@ please see http://xml.resource.org/authoring/README.html. -->
 					</dd>
 				<dt>15.</dt>
 					<dd>
-						Bourbon or Scotch are the drinks of choice among IT professionals. Others SHALL be allowed.
+						Everything else is at fault. (Firewall Engineers perspective)
 					</dd>
 				<dt>16.</dt>
 					<dd>
@@ -150,15 +150,15 @@ please see http://xml.resource.org/authoring/README.html. -->
 					</dd>
 				<dt>19.</dt>
 					<dd>
-						Layer 8 of the OSI model is People. (End Users, customers, developers and network engineers)
+						Layer 8 of the Open Systems Interconnection (OSI) model is People. (End Users, customers, developers and network engineers)
 					</dd>
 				<dt>20.</dt>
 					<dd>
-						Layer 9 of the OSI model is company/external regulations, rules, and restrictions
+						Layer 9 of the Open Systems Interconnection (OSI) model is company/external regulations, rules, and restrictions
 					</dd>
 				<dt>21.</dt>
 					<dd>
-						Layer 10 of the OSI model is money, budget, and funds
+						Layer 10 of the Open Systems Interconnection (OSI) model is money, budget, and funds
 					</dd>
 				<dt>22.</dt>
 					<dd>
@@ -234,7 +234,7 @@ please see http://xml.resource.org/authoring/README.html. -->
 					</dd>
 				<dt>40.</dt>
 					<dd>
-						One of the hardest parts of a network engineers day is the process of copying a file from a client to a server.
+						One of the hardest parts of any IT professional's day is the process of copying a file from a client to a server.
 						See 14.
 					</dd>
 				<dt>41.</dt>
@@ -259,12 +259,16 @@ please see http://xml.resource.org/authoring/README.html. -->
 					</dd>
 				<dt>46.</dt>
 					<dd>
-						Sometimes a device needs a reload and there is no further justification beyond that fact required. 
+						Sometimes a device needs a reload and there SHOULD be no further justification beyond that fact required. 
 					</dd>
 				<dt>47.</dt>
-					<dd>Unassigned</dd>
+					<dd>
+						The best engineers know how to properly discern the false debug errors from the real debug errors.
+					</dd>
 				<dt>48.</dt>
-					<dd>Unassigned</dd>
+					<dd>
+						Bourbon or Scotch are the drinks of choice among IT professionals. Others SHALL be allowed.
+					</dd>
 				<dt>49.</dt>
 					<dd>Experimental</dd>
 				<dt>50.</dt>

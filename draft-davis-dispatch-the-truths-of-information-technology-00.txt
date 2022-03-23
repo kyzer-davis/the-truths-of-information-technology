@@ -194,8 +194,7 @@ Internet-Draft                new-it-truths                   March 2022
       Engineers perspective)
 
    15.
-      Bourbon or Scotch are the drinks of choice among IT professionals.
-      Others SHALL be allowed.
+      Everything else is at fault.  (Firewall Engineers perspective)
 
    16.
       Automation is encouraged and oftentimes recommended. (even at
@@ -209,15 +208,16 @@ Internet-Draft                new-it-truths                   March 2022
       Never test in production.
 
    19.
-      Layer 8 of the OSI model is People.  (End Users, customers,
-      developers and network engineers)
+      Layer 8 of the Open Systems Interconnection (OSI) model is People.
+      (End Users, customers, developers and network engineers)
 
    20.
-      Layer 9 of the OSI model is company/external regulations, rules,
-      and restrictions
+      Layer 9 of the Open Systems Interconnection (OSI) model is
+      company/external regulations, rules, and restrictions
 
    21.
-      Layer 10 of the OSI model is money, budget, and funds
+      Layer 10 of the Open Systems Interconnection (OSI) model is money,
+      budget, and funds
 
 
 
@@ -295,8 +295,8 @@ Internet-Draft                new-it-truths                   March 2022
       Everybody's title is made up.
 
    40.
-      One of the hardest parts of a network engineers day is the process
-      of copying a file from a client to a server.  See 14.
+      One of the hardest parts of any IT professional's day is the
+      process of copying a file from a client to a server.  See 14.
 
    41.
       Documentation, while REQUIRED, is never complete or up-to-date.
@@ -317,19 +317,19 @@ Internet-Draft                new-it-truths                   March 2022
       which point it is usually in the wrong state.
 
    46.
-      Sometimes a device needs a reload and there is no further
+      Sometimes a device needs a reload and there SHOULD be no further
       justification beyond that fact required.
 
    47.
-      Unassigned
+      The best engineers know how to properly discern the false debug
+      errors from the real debug errors.
 
    48.
-      Unassigned
+      Bourbon or Scotch are the drinks of choice among IT professionals.
+      Others SHALL be allowed.
 
    49.
       Experimental
-
-
 
 
 
