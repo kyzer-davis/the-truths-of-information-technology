@@ -255,7 +255,8 @@ please see http://xml.resource.org/authoring/README.html. -->
 					</dd>
 				<dt>45.</dt>
 					<dd>
-						Your microphone behaves much like Schrodinger's cat. That is, it is always in a state of being muted or unmuted until observed; at which point it is usually in the wrong state.
+						Your microphone behaves much like Schrodinger's cat. 
+						That is, it is always in a state of being muted or unmuted until observed; at which point it is usually in the wrong state.
 					</dd>
 				<dt>46.</dt>
 					<dd>
@@ -270,8 +271,29 @@ please see http://xml.resource.org/authoring/README.html. -->
 						Bourbon or Scotch are the drinks of choice among IT professionals. Others SHALL be allowed.
 					</dd>
 				<dt>49.</dt>
-					<dd>Experimental</dd>
+					<dd>
+						The link you saved will change, break, or go away.
+					</dd>
 				<dt>50.</dt>
+					<dd>
+						Somewhere, right now, a group of individuals are arguing about a SHOULD vs a MUST.
+					</dd>
+				<dt>51.</dt>
+					<dd>
+						You never know when you will need that cable. 
+						Better hold onto it.
+					</dd>
+				<dt>52.</dt>
+					<dd>
+						In IT the number of monitors directly correlates to efficiency.
+					</dd>
+				<dt>53.</dt>
+					<dd>
+						Your solution is likely way more complicated that required.
+					</dd>
+				<dt>54.</dt>
+					<dd>Experimental</dd>
+				<dt>55.</dt>
 					<dd>Reserved for Future Use (but will likely never be used.)</dd>
 			</dl>
 		</section>

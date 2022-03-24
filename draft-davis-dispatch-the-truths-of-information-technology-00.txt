@@ -3,10 +3,10 @@
 
 
 dispatch                                                        K. Davis
-Internet-Draft                                             23 March 2022
+Internet-Draft                                             24 March 2022
 Updates: 1925 (if approved)                                             
 Intended status: Informational                                          
-Expires: 24 September 2022
+Expires: 25 September 2022
 
 
                   The Truths of Information Technology
@@ -37,7 +37,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 24 September 2022.
+   This Internet-Draft will expire on 25 September 2022.
 
 Copyright Notice
 
@@ -53,7 +53,7 @@ Copyright Notice
 
 
 
-Davis                   Expires 24 September 2022               [Page 1]
+Davis                   Expires 25 September 2022               [Page 1]
 
 Internet-Draft                new-it-truths                   March 2022
 
@@ -77,7 +77,7 @@ Table of Contents
    5.  Security Considerations . . . . . . . . . . . . . . . . . . .   7
    6.  Acknowledgements  . . . . . . . . . . . . . . . . . . . . . .   7
    7.  Normative References  . . . . . . . . . . . . . . . . . . . .   7
-   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .   7
+   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .   8
 
 1.  Introduction
 
@@ -109,7 +109,7 @@ Table of Contents
 
 
 
-Davis                   Expires 24 September 2022               [Page 2]
+Davis                   Expires 25 September 2022               [Page 2]
 
 Internet-Draft                new-it-truths                   March 2022
 
@@ -165,7 +165,7 @@ Internet-Draft                new-it-truths                   March 2022
 
 
 
-Davis                   Expires 24 September 2022               [Page 3]
+Davis                   Expires 25 September 2022               [Page 3]
 
 Internet-Draft                new-it-truths                   March 2022
 
@@ -221,7 +221,7 @@ Internet-Draft                new-it-truths                   March 2022
 
 
 
-Davis                   Expires 24 September 2022               [Page 4]
+Davis                   Expires 25 September 2022               [Page 4]
 
 Internet-Draft                new-it-truths                   March 2022
 
@@ -277,7 +277,7 @@ Internet-Draft                new-it-truths                   March 2022
 
 
 
-Davis                   Expires 24 September 2022               [Page 5]
+Davis                   Expires 25 September 2022               [Page 5]
 
 Internet-Draft                new-it-truths                   March 2022
 
@@ -329,16 +329,33 @@ Internet-Draft                new-it-truths                   March 2022
       Others SHALL be allowed.
 
    49.
-      Experimental
+      The link you saved will change, break, or go away.
 
 
 
-Davis                   Expires 24 September 2022               [Page 6]
+Davis                   Expires 25 September 2022               [Page 6]
 
 Internet-Draft                new-it-truths                   March 2022
 
 
    50.
+      Somewhere, right now, a group of individuals are arguing about a
+      SHOULD vs a MUST.
+
+   51.
+      You never know when you will need that cable.  Better hold onto
+      it.
+
+   52.
+      In IT the number of monitors directly correlates to efficiency.
+
+   53.
+      Your solution is likely way more complicated that required.
+
+   54.
+      Experimental
+
+   55.
       Reserved for Future Use (but will likely never be used.)
 
 4.  IANA Considerations
@@ -370,6 +387,13 @@ Internet-Draft                new-it-truths                   March 2022
               DOI 10.17487/RFC2119, March 1997,
               <https://www.rfc-editor.org/info/rfc2119>.
 
+
+
+Davis                   Expires 25 September 2022               [Page 7]
+
+Internet-Draft                new-it-truths                   March 2022
+
+
    [RFC8174]  Leiba, B., "Ambiguity of Uppercase vs Lowercase in RFC
               2119 Key Words", BCP 14, RFC 8174, DOI 10.17487/RFC8174,
               May 2017, <https://www.rfc-editor.org/info/rfc8174>.
@@ -389,4 +413,36 @@ Author's Address
 
 
 
-Davis                   Expires 24 September 2022               [Page 7]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Davis                   Expires 25 September 2022               [Page 8]
