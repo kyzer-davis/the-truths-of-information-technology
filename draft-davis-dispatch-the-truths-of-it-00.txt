@@ -3,14 +3,14 @@
 
 
 dispatch                                                        K. Davis
-Internet-Draft                                             31 March 2022
+Internet-Draft                                              1 April 2022
 Updates: 1925 (if approved)                                             
 Intended status: Informational                                          
-Expires: 2 October 2022
+Expires: 3 October 2022
 
 
                   The Truths of Information Technology
-      draft-davis-dispatch-the-truths-of-information-technology-00
+                draft-davis-dispatch-the-truths-of-it-00
 
 Abstract
 
@@ -37,7 +37,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 2 October 2022.
+   This Internet-Draft will expire on 3 October 2022.
 
 Copyright Notice
 
@@ -53,9 +53,9 @@ Copyright Notice
 
 
 
-Davis                    Expires 2 October 2022                 [Page 1]
+Davis                    Expires 3 October 2022                 [Page 1]
 
-Internet-Draft                new-it-truths                   March 2022
+Internet-Draft                new-it-truths                   April 2022
 
 
    This document is subject to BCP 78 and the IETF Trust's Legal
@@ -109,9 +109,9 @@ Table of Contents
 
 
 
-Davis                    Expires 2 October 2022                 [Page 2]
+Davis                    Expires 3 October 2022                 [Page 2]
 
-Internet-Draft                new-it-truths                   March 2022
+Internet-Draft                new-it-truths                   April 2022
 
 
    2.
@@ -165,9 +165,9 @@ Internet-Draft                new-it-truths                   March 2022
 
 
 
-Davis                    Expires 2 October 2022                 [Page 3]
+Davis                    Expires 3 October 2022                 [Page 3]
 
-Internet-Draft                new-it-truths                   March 2022
+Internet-Draft                new-it-truths                   April 2022
 
 
    9a.
@@ -221,9 +221,9 @@ Internet-Draft                new-it-truths                   March 2022
 
 
 
-Davis                    Expires 2 October 2022                 [Page 4]
+Davis                    Expires 3 October 2022                 [Page 4]
 
-Internet-Draft                new-it-truths                   March 2022
+Internet-Draft                new-it-truths                   April 2022
 
 
    22.
@@ -277,9 +277,9 @@ Internet-Draft                new-it-truths                   March 2022
 
 
 
-Davis                    Expires 2 October 2022                 [Page 5]
+Davis                    Expires 3 October 2022                 [Page 5]
 
-Internet-Draft                new-it-truths                   March 2022
+Internet-Draft                new-it-truths                   April 2022
 
 
    36.
@@ -333,9 +333,9 @@ Internet-Draft                new-it-truths                   March 2022
 
 
 
-Davis                    Expires 2 October 2022                 [Page 6]
+Davis                    Expires 3 October 2022                 [Page 6]
 
-Internet-Draft                new-it-truths                   March 2022
+Internet-Draft                new-it-truths                   April 2022
 
 
    50.
@@ -389,9 +389,9 @@ Internet-Draft                new-it-truths                   March 2022
 
 
 
-Davis                    Expires 2 October 2022                 [Page 7]
+Davis                    Expires 3 October 2022                 [Page 7]
 
-Internet-Draft                new-it-truths                   March 2022
+Internet-Draft                new-it-truths                   April 2022
 
 
    [RFC8174]  Leiba, B., "Ambiguity of Uppercase vs Lowercase in RFC
@@ -445,4 +445,4 @@ Author's Address
 
 
 
-Davis                    Expires 2 October 2022                 [Page 8]
+Davis                    Expires 3 October 2022                 [Page 8]

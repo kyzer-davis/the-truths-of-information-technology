@@ -14,10 +14,10 @@ please see http://xml.resource.org/authoring/README.html. -->
 <!-- control vertical white space: 
 (using these PIs as follows is recommended by the RFC Editor) -->
 <!-- end of popular PIs -->
-<rfc version="3" category="info" updates="1925" submissionType="IETF" consensus="true" ipr="trust200902" docName="draft-davis-dispatch-the-truths-of-information-technology-00">
+<rfc version="3" category="info" updates="1925" submissionType="IETF" consensus="true" ipr="trust200902" docName="draft-davis-dispatch-the-truths-of-it-00">
 	<front>
 		<title abbrev="new-it-truths">The Truths of Information Technology</title>
-		<seriesInfo name="Internet-Draft" value="draft-davis-dispatch-the-truths-of-information-technology-00" stream="IETF"/>
+		<seriesInfo name="Internet-Draft" value="draft-davis-dispatch-the-truths-of-it-00" stream="IETF"/>
 		<author fullname="Kyzer R. Davis" initials="K" surname="Davis">
 			<address>
 				<email>kydavis@cisco.com</email>
